@@ -22,6 +22,7 @@ body > nav > div > ul {
 }
 li > a {
     border-bottom: 0.1rem solid;
+    text-align: center;
 }
 .container{
     width: 90%;  
